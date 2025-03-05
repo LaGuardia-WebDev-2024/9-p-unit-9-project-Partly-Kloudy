@@ -35,8 +35,8 @@ textSize(15);
   fill(0, 0, 255);
   
   if (answer == 0){
-  text("Meow. Ask Me A", 70, 120);
-  text("Yes or No Question! :3", 70, 140);
+  text("Meow. Ask Me", 70, 120);
+  text("A Question! :3", 70, 140);
   }
   
   if (answer == 1){
